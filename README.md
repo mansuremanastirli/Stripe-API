@@ -29,3 +29,10 @@ Users can check their payment history.**
   <br/>
   After coming to the project folder in the terminal, run the npm install code, then go to the client folder and run the npm start command, then go to the server         folder and run the npm start command again**
 
+# Screenshots
+
+![Login Page](https://github.com/mansuremanastirli/Stripe-API/blob/main/login.png)
+
+![Payment Page](https://github.com/mansuremanastirli/Stripe-API/blob/main/payment.png)
+
+
